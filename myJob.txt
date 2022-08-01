@@ -1,0 +1,19 @@
+Web Developer
+ตำแหน่ง ผู้พัฒนาเว็บไซต์
+SCB Asset Management Co., Ltd.
+
+Description:
+[-] Design & develop website landing page in HTML5/ CSS / JavaScript
+[-] Modify and update website according to company or business unit’s specification.
+[-] Monitor and evaluate the effectiveness of website for improvement.
+[-] Implement and be able to use digital analytic tools to interpret all data for marketing purpose
+[-] Update new website technology and being technical specialist to advise team for related issues.
+
+Qualifications:
+[-] Bachelor’s degree in Computer Programming, Computer Science or Related Filed
+[-] Java Development & Web animation techniques
+[-] Understanding UX/UI and frontend programing
+[-] At least 2 years of experience in Banking / Financial Industrial is preferable
+[-] Strong planning and managing internal & external resources
+[-] Excellent interpersonal communication skills
+[-] Good at English 
