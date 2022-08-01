@@ -1,15 +1,23 @@
 Web Developer
 ผู้พัฒนาเว็บไซต์
 SCB Asset Management Co., Ltd.
+บริษัทหลักทรัพย์จัดการกองทุนไทยพาณิชย์ จำกัด
 
 Description:
 คำอธิบาย
+
 [-] Design & develop website landing page in HTML5/ CSS / JavaScript
+ออกแบบและพัฒนาเว็บ Landing Page ใน HTML5/ CSS / JavaScript
 [-] Modify and update website according to company or business unit’s specification.
+แก้ไขและปรับปรุงเว็บไซต์ตามข้อกำหนดของบริษัทหรือธุรกิจ
 [-] Update new website technology and being technical specialist to advise team for related issues.
+อัพเดทเทคโนโลยีเว็บไซต์ใหม่และเป็นผู้เชี่ยวชาญทางเทคนิคเพื่อให้คำแนะนำกับทีมเกี่ยวกับเรื่องที่เกี่ยวข้อง
 
 Qualifications:
 คุณสมบัติ
 [-] Bachelor’s degree in Computer Programming, Computer Science or Related Filed
+วุฒิปริญญาตรี สาขา Computer Programming, Computer Science หรือสาขาที่เกี่ยวข้อง
 [-] Java Development & Web animation techniques
+เทคนิคการพัฒนา Java และแอนิเมชั่นเว็บ
 [-] Understanding UX/UI and frontend programing
+เข้าใจ UX/UI และการเขียนโปรแกรมแบบ frontend
